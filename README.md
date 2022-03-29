@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhawat2010" alt="shekhawat2010" /></a> </p>
 
-- 🌱 I’m currently learning **Deep NLP and CV**
+- 🌱 I’m currently Working on **Deep NLP Project**
 
 - 💬 Ask me about **tech related stuff**
 
